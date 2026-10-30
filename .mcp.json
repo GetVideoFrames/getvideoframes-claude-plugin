@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "getvideoframes": {
+      "type": "http",
+      "url": "https://mcp.getvideoframes.com/mcp"
+    }
+  }
+}

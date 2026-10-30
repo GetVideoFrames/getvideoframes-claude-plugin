@@ -1,0 +1,14 @@
+{
+  "name": "getvideoframes",
+  "description": "Official GetVideoFrames plugin for Claude: extract and analyze still frames from public videos.",
+  "owner": {
+    "name": "ACHIEVE APEX LLC",
+    "email": "support@getvideoframes.com"
+  },
+  "plugins": [
+    {
+      "name": "getvideoframes",
+      "source": "./"
+    }
+  ]
+}

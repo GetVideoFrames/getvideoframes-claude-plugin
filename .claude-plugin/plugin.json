@@ -1,0 +1,15 @@
+{
+  "name": "getvideoframes",
+  "displayName": "GetVideoFrames",
+  "description": "Extract still frames from public YouTube, Instagram, TikTok, Facebook, X, Vimeo, Google Drive and direct video links, then view and analyze them with GetVideoFrames.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ACHIEVE APEX LLC",
+    "email": "support@getvideoframes.com"
+  },
+  "homepage": "https://getvideoframes.com",
+  "repository": "https://github.com/GetVideoFrames/getvideoframes-claude-plugin",
+  "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://getvideoframes.com/privacy/"
+}
