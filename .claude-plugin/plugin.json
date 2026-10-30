@@ -11,5 +11,8 @@
   "repository": "https://github.com/GetVideoFrames/getvideoframes-claude-plugin",
   "license": "MIT",
   "icon": "./.claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://getvideoframes.com/privacy/"
+  "privacyPolicyUrl": "https://getvideoframes.com/privacy/",
+  "supportUrl": "https://getvideoframes.com/contact/",
+  "documentationUrl": "https://getvideoframes.com/developers/mcp/",
+  "termsOfServiceUrl": "https://getvideoframes.com/terms/"
 }
