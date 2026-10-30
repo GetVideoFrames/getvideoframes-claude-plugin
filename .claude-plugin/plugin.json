@@ -13,6 +13,6 @@
   "icon": "./.claude-plugin/icon.png",
   "privacyPolicyUrl": "https://getvideoframes.com/privacy/",
   "supportUrl": "https://getvideoframes.com/contact/",
-  "documentationUrl": "https://getvideoframes.com/developers/mcp/",
+  "documentationUrl": "https://getvideoframes.com/integrations/claude/",
   "termsOfServiceUrl": "https://getvideoframes.com/terms/"
 }

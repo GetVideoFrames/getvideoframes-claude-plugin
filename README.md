@@ -52,7 +52,7 @@ The plugin runs no local code. It only points Claude at the hosted GetVideoFrame
 
 Privacy policy: https://getvideoframes.com/privacy/
 Terms: https://getvideoframes.com/terms/
-Docs: https://getvideoframes.com/developers/mcp/
+Docs: https://getvideoframes.com/integrations/claude/
 
 ## License
 
